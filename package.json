@@ -1,0 +1,24 @@
+{
+  "name": "sheet_spliter",
+  "version": "1.0.0",
+  "description": "A tool for split sprite sheet image",
+  "main": "sheet_spliter.js",
+  "scripts": {
+    "test": "sheet_spliter -p {file_path}"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eperfect/sheet_spliter.git"
+  },
+  "keywords": [
+    "split",
+    "sprite",
+    "sheet"
+  ],
+  "author": "Saco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eperfect/sheet_spliter/issues"
+  },
+  "homepage": "https://github.com/eperfect/sheet_spliter#readme"
+}
